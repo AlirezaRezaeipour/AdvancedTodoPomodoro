@@ -19,4 +19,4 @@ A Tkinter-based productivity app combining a ToDo list and a Pomodoro timer.
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/AdvancedTodoPomodoro.git
+git clone https://github.com/AlirezaRezaeipour/AdvancedTodoPomodoro.git
