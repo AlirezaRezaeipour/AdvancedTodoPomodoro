@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+tasks.json
+pomodoro_tasks.json
+history.json
